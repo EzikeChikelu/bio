@@ -1,0 +1,146 @@
+body, html { 
+min-height: 1000px;
+padding: 0;
+font: Arial 14px;
+background-color: white;
+color: black;
+}
+
+#form{
+padding-left: 150px;
+padding-top: 20px;
+border: 2px solid black;
+margin-left: 200px;
+margin-right: 200px;
+}
+
+#head{
+text-align: center;
+}
+
+#oname, #class, #lga, #schoolt, #height, #address, #religion, #pic{
+padding-left:20px;
+}
+
+#sname{
+margin-bottom: 9px;
+}
+
+#t1{
+text-align: center;
+}
+
+#schoolt{
+width: 82px;
+}
+
+#schooli{
+width: 160px;
+}
+     
+#sname{
+width: 90px;
+}
+
+#oname{
+width: 200px;
+}
+
+#lga{
+width: 75px;
+}
+      
+#ss{
+padding-top: 50px;
+margin-bottom: 50px;
+}
+
+#status{
+margin-top: 50px;
+}
+      
+textarea{
+width: 20px;
+height: 20px;
+}
+
+#add{
+width: 300px;
+}
+
+#school{
+width: 200px;
+}
+
+#para{
+padding-top: 10px;
+}
+
+#childs{
+width: 40px;
+}
+
+h3{
+padding-left: 200px;
+padding-top: 20px;
+}
+
+#notes{
+width: 580px;
+}
+
+#sex{
+padding-left: 20px; 
+}
+
+#mental{
+padding-right: 60px;
+}
+
+#mentals{
+margin-right: 30px;
+}
+
+#list{
+padding-bottom: 20px;
+}
+
+#mental1, #mental10, #mental2, #mental3, #mental4, #mental5, #mental6, #mental7{
+margin-right: 50px;
+}
+
+#mental1{
+margin-left: 80px;
+}
+
+#mental2{
+margin-left: 75px;
+}
+
+#mental3{
+margin-left: 46px;
+}
+
+#mental4{
+margin-left: 52px;
+}
+
+#mental5{
+margin-left: 46px;
+}
+#mental6{
+margin-left: 85px;
+}
+#mental7{
+margin-left: 66px;
+}
+#button{
+border-radius: 20px;
+width: 100px;
+height: 50px;
+background-color: blueviolet;
+border: 3px solid black;
+}
+#butt{
+   margin-left: 220px;
+}
